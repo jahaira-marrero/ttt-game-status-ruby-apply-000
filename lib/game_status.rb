@@ -14,9 +14,9 @@ WIN_COMBINATIONS = [
   [6,7,8], #bottomrow
   [0,3,6], #leftcolumn
   [1,4,7], #middlecolumn
-  [2,5,8] #rightcolumn
-  [0,4,8] #leftdiagonal
-  [2,4,6] #rightdiagonal
+  [2,5,8], #rightcolumn
+  [0,4,8], #leftdiagonal
+  [2,4,6], #rightdiagonal
   ]
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "," "]
